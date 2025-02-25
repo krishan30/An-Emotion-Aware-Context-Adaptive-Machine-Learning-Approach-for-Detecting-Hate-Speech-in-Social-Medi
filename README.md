@@ -3,7 +3,7 @@
 
 ## Overview
 
-"Unmasking Hate: An Integrated Approach to Detecting Hate Speech in Social Media" aims to develop a comprehensive method for identifying hate speech on social media platforms. Hate speech is a serious problem that can have harmful effects on individuals and society. By developing a system that can accurately identify instances of hate speech, we hope to promote a safer and more inclusive online environment.
+"An Emotion Aware Context Adaptive Machine Learning Approach for Detecting Hate Speech in Social Media" aims to develop a comprehensive method for identifying hate speech on social media platforms. Hate speech is a serious problem that can have harmful effects on individuals and society. By developing a system that can accurately identify instances of hate speech, we hope to promote a safer and more inclusive online environment.
 
 ## Objectives
 
