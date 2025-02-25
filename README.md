@@ -1,5 +1,5 @@
 # AiLERT-FYP
-# Unmasking Hate: An Integrated Approach to Detecting Hate Speech in Social Media
+# An Emotion Aware Context Adaptive Machine Learning Approach for Detecting Hate Speech in Social Media
 
 ## Overview
 
